@@ -116,6 +116,6 @@ public class StaxParserService {
             logger.info("FileNotFoundException: " + e);
         }
 
-        return "";
+        return "C:\\testStax.xml";
     }
 }
