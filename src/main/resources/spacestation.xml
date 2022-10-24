@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spacestation>
+    <spaceships>
+        <spaceship>
+            <name>Falcon</name>
+            <numberOfCrew>10</numberOfCrew>
+            <price currency="Space Dollars">1500.0</price>
+        </spaceship>
+        <spaceship>
+            <name>Stork</name>
+            <numberOfCrew>25</numberOfCrew>
+            <price currency="Euro">800.0</price>
+        </spaceship>
+        <spaceship>
+            <name>Destroyer</name>
+            <numberOfCrew>500</numberOfCrew>
+            <price currency="DKK">20000.0</price>
+        </spaceship>
+    </spaceships>
+</spacestation>
